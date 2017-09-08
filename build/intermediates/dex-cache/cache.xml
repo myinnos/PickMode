@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/051e46b4c86244575fccab86ade27f65dc1b2215/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_8a9ea7b94bab7701dfe9f32dc31f86ee303f986b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_f53e58371ff73f651fa11c1adfdc514846dbd5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/445949eea4565e8a8edfd5ab7e15e46bc0845cbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_6127b23db3f25b7057bb6ce760dabcc4c6cd59ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/a9451b9c0cdc96ffc0bb6d56001f7f6599eb2edb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_d16d564866837b7467f632b2839e52167937669d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d25167875d2f8c5543b516b66d6ba29a5b7e7c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/3e82f49e4ed11a6cbc94147bd796572472419bae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_2bfb212e3bbd980b1deabf8a54952150c42187c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_f53e58371ff73f651fa11c1adfdc514846dbd5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/a9451b9c0cdc96ffc0bb6d56001f7f6599eb2edb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_d16d564866837b7467f632b2839e52167937669d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/59b607ba09c9a1798296569227ea852bd86920c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_dc61bfc6e4a1f5b59f94b33afb6eb4d1c00cc059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d25167875d2f8c5543b516b66d6ba29a5b7e7c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/teamdev/.android/build-cache/a9d2914145adafca3c423f26ba651a89cf1954fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/teamdev/AndroidStudioProjects/MediaPickerInstagram-master/app/build/intermediates/pre-dexed/debug/classes_d12dea1018ad1e3bb715078d30eee90c2bd1e88e.jar" />
+    </item>
+
+</items>
